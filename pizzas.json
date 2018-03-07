@@ -1,0 +1,45 @@
+	[
+		{
+			"No":"1",
+			"PizzaName":"Farm House",
+			"Ingredients":"Capsicum, Mushrooms and Tomatoes",
+			"Price":"Rs. 280"		
+
+		},
+		{
+			"No":"2",
+			"PizzaName":"Peppy Paneer ",
+			"Ingredients":"Paneer, Capsicum and Spicy red pepper",
+			"Price":"Rs. 240"
+		},
+		{
+			"No":"3",
+			"PizzaName":"Paneer Makhani",
+			"Ingredients":"Paneer and Capsicum on Makhani Sauce",
+			"Price":"Rs. 220"
+		},
+		{
+			"No":"4",
+			"PizzaName":"Veg Extravaganz ",
+			"Ingredients":"Corn, Onions, Capsicum, Mushrooms, Tomatoes with extra Cheese",
+			"Price":"Rs. 220"
+		},
+		{
+			"No":"5",
+			"PizzaName":"Veggie Paradise",
+			"Ingredients":"Goldern Corn, Black Olives, Capsicum & Red Paprika",
+			"Price":"Rs. 230"
+		},
+		{
+			"No":"6",
+			"PizzaName":"Veg Loaded",
+			"Ingredients":"Tomato, Jalapeno, Mushroom and Beans",
+			"Price":"Rs. 320"
+		},
+		{
+			"No":"7",
+			"PizzaName":"Mexican Green Wave",
+			"Ingredients":"Onions, Capsicum, Tomatoes, Jalapeno",
+			"Price":"Rs. 340"
+		}
+	]
